@@ -1,5 +1,6 @@
 # sql_indenter
-Is a python module to 'Beautify' and indent an SQL query
+Is a python software to 'Beautify' and indent an SQL query.
+Takes a file in input through a GUI managed by Tkinter and saves a new indented file into indented_sql folder
 
 # Create a new instance, your Instance
 ## All you need is...
