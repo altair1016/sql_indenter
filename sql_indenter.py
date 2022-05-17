@@ -42,7 +42,7 @@ finally:
 	query = query.replace('\t', '')
 	query = query.replace('\n', ' ')
 	query = query.replace('    ', ' ')
-	#print query
+	
 
 	fileOutput.write(sql.format(query, reindent=True, keyword_case='upper'))
 	fileOutput.close()
