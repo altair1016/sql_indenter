@@ -8,7 +8,7 @@ Takes a file in input through a GUI managed by Tkinter and saves a new indented 
 Computer  where to host the python scripts.
 
 python2 intepreter with following modules installed: 
-
+ 
 - sqlparse
 - Tkinter
 - os
